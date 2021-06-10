@@ -1,0 +1,13 @@
+/home/smith/project/document_image/target/debug/deps/gif-6d7d1f61ea9356ce.rmeta: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/traits.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/common.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/mod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/decoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/encoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/../README.md
+
+/home/smith/project/document_image/target/debug/deps/libgif-6d7d1f61ea9356ce.rlib: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/traits.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/common.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/mod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/decoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/encoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/../README.md
+
+/home/smith/project/document_image/target/debug/deps/gif-6d7d1f61ea9356ce.d: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/traits.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/common.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/mod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/decoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/encoder.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/../README.md
+
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/lib.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/traits.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/common.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/mod.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/reader/decoder.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/encoder.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.2/src/../README.md:

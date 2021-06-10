@@ -1,0 +1,12 @@
+/home/smith/project/document_image/target/release/deps/bytemuck-fc210ed143c5a39e.rmeta: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/zeroable.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/pod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/contiguous.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/offset_of.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/transparent.rs
+
+/home/smith/project/document_image/target/release/deps/libbytemuck-fc210ed143c5a39e.rlib: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/zeroable.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/pod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/contiguous.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/offset_of.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/transparent.rs
+
+/home/smith/project/document_image/target/release/deps/bytemuck-fc210ed143c5a39e.d: /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/lib.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/zeroable.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/pod.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/contiguous.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/offset_of.rs /home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/transparent.rs
+
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/lib.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/zeroable.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/pod.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/contiguous.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/offset_of.rs:
+/home/smith/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.5.1/src/transparent.rs:
